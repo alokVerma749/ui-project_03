@@ -82,8 +82,6 @@ This project is presently deployed in **Netlify Service**
   - ✔ Flexbox
   - ✔ CSS Selectors
   - ✔ Background property 
-  - ✔ Box Shadow
-  - ✔ Working with svg files
 <!-- NOTE -->
 
 ## Note
